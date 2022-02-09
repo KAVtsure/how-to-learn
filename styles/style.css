@@ -30,8 +30,7 @@
 .header__title {
   margin: 0;
   padding: 0;
-  position: absolute;
-  left: 64px;
+  margin-left: 64px;
   width: 730px;
   align-self: center;
   z-index: 2;
@@ -180,7 +179,7 @@
 }
 
 .feynman {
-  height: 890px;
+  min-height: 890px;
   background-color: #f2f2f2;
   display: flex;
   position: relative;
