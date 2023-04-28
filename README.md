@@ -13,4 +13,4 @@
 * Для вставки видео используется iframe
 
 
-https://kavtsure.github.io/how-to-learn/
+[Ссылка на GitHub Pages](https://kavtsure.github.io/how-to-learn/)
