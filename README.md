@@ -1,5 +1,7 @@
 # Научиться учиться
 
+![image](https://user-images.githubusercontent.com/96446476/235225776-911d792d-0291-4507-8df4-10e6cc5106f7.png)
+
 
 ## О проекте
 
